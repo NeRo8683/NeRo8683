@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> Hi 🐧, I'm NeRo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"> Developer <em>in process</em></p>
 
-<!--
-**NeRo8683/NeRo8683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi!, I'm NeRo, a advanced law student and a Junior Java Developer on it's way to become a Backend.</p>
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/BmfDRHdpLw6sszpKp9/giphy.gif" width="50"> About me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+Cris = {
+    'aka': ['NeRo'],
+    'codeSkills': ['Java', 'Python', 'Javascript', 'SQL', 'HTML', 'CSS'],
+    'framework': ['Spring Boot', 'Django'],    
+    'tools': ['Docker', 'Trello', 'Figma', 'Slack', 'MySQL', 'GitHub', 'PostgreSql', 'JUnit', 'Mockito', 'Selenium', 'Serenity', 'Cypress', 'TestLink', 'Jira'],
+    'architecture': ['REST', 'SOAP'],    
+    'languages': {
+                    'spanish': 'Native',
+                    'english': 'Elemental- B1',
+                    'italian': 'Elemental- A1'
+                  },
+    'finishedCourses': {
+                          'Egg Cooperation': 'Full Stack', 'Manual Testing and Automation',                          
+                        },
+}
+
+print('About Me:', NeRo)
+    
+```
+### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="50"> 📫 How to find me:
+
+<p> :octocat: Github@NeRo8683
+
+📧 crisgonzalez8683@gmail.com </p>
