@@ -17,7 +17,8 @@ Cris = {
                     'italian': 'Elemental- A1'
                   },
     'finishedCourses': {
-                          'Egg Cooperation': 'Full Stack', 'Manual Testing and Automation',                          
+                          'Egg Cooperation': 'Full Stack Java', 'Manual Testing and Automation',
+                          'IT Master': "Full Stack Python"   
                         },
 }
 
