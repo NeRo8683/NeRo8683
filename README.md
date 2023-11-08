@@ -1,7 +1,6 @@
 <h2> Hi 🐧, I'm NeRo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"> Developer <em>in process</em></p>
 
-<p>Hi!, I'm NeRo, a advanced law student and a Junior Java Developer on it's way to become a Backend.</p>
+<p>Hi!, I'm NeRo, a advanced law student and a Junior Java Developer</p>
 
 ### <img src="https://media.giphy.com/media/BmfDRHdpLw6sszpKp9/giphy.gif" width="50"> About me...  
 
@@ -26,7 +25,5 @@ print('About Me:', NeRo)
     
 ```
 ### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="50"> 📫 How to find me:
-
 <p> :octocat: Github@NeRo8683
-
 📧 crisgonzalez8683@gmail.com </p>
