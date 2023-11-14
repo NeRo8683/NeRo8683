@@ -1,6 +1,6 @@
 <h2> Hi 🐧, I'm NeRo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p>Hi!, I'm NeRo, a advanced law student and a Java Developer. Also Expert Shoe Repair </p>
+<p>Hi!, I'm NeRo, a student Java Developer. Also Expert Shoe Repair </p>
 
 ### <img src="https://media.giphy.com/media/BmfDRHdpLw6sszpKp9/giphy.gif" width="50"> About me...  
 
